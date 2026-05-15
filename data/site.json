@@ -1,0 +1,24 @@
+{
+  "name": "Plaintext",
+  "tagline": "A small publication about ideas worth thinking slowly about.",
+  "about": {
+    "whoWeAre": [
+      "Plaintext is an independent blog founded in 2024 by a small group of writers, engineers, and researchers who grew tired of hot takes and wanted somewhere to put longer thoughts. We publish one essay a week — no more, no less.",
+      "We believe that the internet has enough fast content. Our goal is to be the opposite: considered, unhurried, and worth re-reading."
+    ],
+    "whatWeCover": "Technology and its effects on work and society. Productivity, focus, and the psychology of deep work. Occasionally: books, cities, and the strange logic of how people spend their time."
+  },
+  "team": [
+    { "name": "Maya Okafor", "role": "Editor in Chief" },
+    { "name": "James Reilly", "role": "Staff Writer" },
+    { "name": "Soo-Ah Lim", "role": "Design & Layout" },
+    { "name": "Dev Sharma", "role": "Engineering" }
+  ],
+  "contact": {
+    "email": "hello@plaintext.blog",
+    "phone": "+1 (555) 000-1234",
+    "phoneHref": "tel:+15550001234",
+    "address": "123 Writer's Lane, San Francisco, CA"
+  },
+  "copyrightYear": 2026
+}

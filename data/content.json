@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-05-15T13:43:42.355Z",
+  "sourcePdf": "slowing-down.pdf",
+  "source": "from data/article.json blocks (PDF: Source/slowing-down.pdf)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "lead": true,
+      "text": "There is a particular kind of exhaustion that comes not from working too hard, but from working without pause. It is the exhaustion of a mind that has never been given permission to be idle — that has confused busyness with progress, noise with signal, motion with direction."
+    },
+    {
+      "type": "paragraph",
+      "text": "We live inside an economy of attention that rewards speed. Faster replies, faster deploys, faster iterations. The assumption underneath it all is that acceleration is inherently good, that the team moving quickest wins. But this assumption dissolves under scrutiny."
+    },
+    {
+      "type": "quote",
+      "text": "It is not enough to be busy. The question is: what are we busy about?",
+      "cite": "Henry David Thoreau"
+    },
+    {
+      "type": "heading",
+      "id": "context-switching",
+      "text": "The compounding cost of context-switching"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cognitive science has known for decades what most knowledge workers learn the hard way: every time you switch tasks, you pay a tax. It takes roughly 20 minutes to reach deep focus. Interrupt it once per hour and you never arrive. The work that feels urgent — the Slack ping, the inbox badge, the pulled-in meeting — is almost never the work that moves the needle."
+    },
+    {
+      "type": "paragraph",
+      "text": "What changes when you build deliberate slowness into a process? You start to notice the difference between work that creates value and work that merely creates activity. You start to ask harder questions before starting, rather than easier ones after finishing."
+    },
+    {
+      "type": "heading",
+      "id": "stillness",
+      "text": "Stillness as a competitive advantage"
+    },
+    {
+      "type": "paragraph",
+      "text": "The best thinking rarely happens in a meeting. It happens in the gap between meetings — on a walk, in the shower, staring at a ceiling. Unstructured time is not wasted time. It is the substrate on which synthesis happens."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is not an argument for laziness or against ambition. It is an argument for the kind of ambition that is patient enough to be strategic — that understands the difference between a sprint and a marathon, and plans accordingly."
+    },
+    {
+      "type": "closing",
+      "text": "Slow down. Think longer. Ship better."
+    }
+  ]
+}
