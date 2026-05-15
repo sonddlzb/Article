@@ -1,0 +1,5 @@
+# Static Site — KHÔNG dùng Web Service (không cần Start Command)
+staticSites:
+  - name: plaintext-article
+    buildCommand: npm install && npm run build
+    staticPublishPath: .

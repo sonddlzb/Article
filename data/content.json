@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-15T13:43:42.355Z",
+  "generatedAt": "2026-05-15T13:55:36.787Z",
   "sourcePdf": "slowing-down.pdf",
-  "source": "from data/article.json blocks (PDF: Source/slowing-down.pdf)",
+  "source": "from data/article.json (PDF: Source/slowing-down.pdf)",
   "blocks": [
     {
       "type": "paragraph",
